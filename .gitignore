@@ -1,0 +1,8 @@
+/Public/upload/
+/Application/Runtime/
+/.idea/
+/Application/Common/Conf/db.php
+.idea/
+Application/Common/Conf/db.php
+/.phpstorm.meta.php
+/Public/upload_back/
